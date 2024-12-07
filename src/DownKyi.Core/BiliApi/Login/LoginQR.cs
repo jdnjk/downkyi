@@ -1,4 +1,4 @@
-﻿using DownKyi.Core.BiliApi.Login.Models;
+using DownKyi.Core.BiliApi.Login.Models;
 using DownKyi.Core.Logging;
 using Newtonsoft.Json;
 using System;
